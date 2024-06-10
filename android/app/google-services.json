@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "725828416705",
+    "project_id": "travel-tailor-cb93a",
+    "storage_bucket": "travel-tailor-cb93a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725828416705:android:b8bbeab0e17151ab865040",
+        "android_client_info": {
+          "package_name": "com.example.untitled3445"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725828416705-ajd6np9vpe8totv39ul1uhtrokgcdvgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyQb3uXUOEWI8BH37W5RPlLb1HjojrVb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725828416705-ajd6np9vpe8totv39ul1uhtrokgcdvgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725828416705-66o05fdlnojrdnu24eikgau9r7rip868.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.trip.tailor.triptailor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725828416705:android:16da01ab767d31e7865040",
+        "android_client_info": {
+          "package_name": "com.hr.egyexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725828416705-ajd6np9vpe8totv39ul1uhtrokgcdvgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyQb3uXUOEWI8BH37W5RPlLb1HjojrVb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725828416705-ajd6np9vpe8totv39ul1uhtrokgcdvgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725828416705-66o05fdlnojrdnu24eikgau9r7rip868.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.trip.tailor.triptailor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725828416705:android:23b0ff31ee55ca3f865040",
+        "android_client_info": {
+          "package_name": "com.icomgroup.notificationcenter.icomnotificationcenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725828416705-ajd6np9vpe8totv39ul1uhtrokgcdvgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyQb3uXUOEWI8BH37W5RPlLb1HjojrVb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725828416705-ajd6np9vpe8totv39ul1uhtrokgcdvgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725828416705-66o05fdlnojrdnu24eikgau9r7rip868.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.trip.tailor.triptailor"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725828416705:android:b1c393f86b186e5e865040",
+        "android_client_info": {
+          "package_name": "com.trip.tailor.triptailor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725828416705-ajd6np9vpe8totv39ul1uhtrokgcdvgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyQb3uXUOEWI8BH37W5RPlLb1HjojrVb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725828416705-ajd6np9vpe8totv39ul1uhtrokgcdvgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725828416705-66o05fdlnojrdnu24eikgau9r7rip868.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.trip.tailor.triptailor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

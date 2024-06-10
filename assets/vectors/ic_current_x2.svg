@@ -1,0 +1,20 @@
+<svg width="460" height="460" viewBox="0 0 460 460" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M230,460C357.026,460 460,357.026 460,230C460,102.975 357.026,0 230,0C102.975,0 0,102.975 0,230C0,357.026 102.975,460 230,460Z" clip-rule="evenodd" fill-rule="evenodd" fill="#1855AD" fill-opacity="0.38"/>
+<g filter="url(#filter1_2290)">
+<path d="M231,288C262.48,288 288,262.48 288,231C288,199.52 262.48,174 231,174C199.52,174 174,199.52 174,231C174,262.48 199.52,288 231,288Z" clip-rule="evenodd" fill-rule="evenodd" fill="#222375" fill-opacity="0.65" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="3.999327"/>
+</g>
+<path d="M259.677,213.881L233.487,260.539C232.993,261.513 232.164,262 231.001,262C230.856,262 230.638,261.972 230.347,261.917C229.708,261.777 229.192,261.464 228.799,260.978C228.407,260.491 228.21,259.941 228.21,259.329L228.799,234.618L202.782,227.706C202.142,227.706 201.568,227.518 201.059,227.142C200.55,226.767 200.223,226.273 200.078,225.661C199.933,225.049 199.991,224.465 200.252,223.908C200.514,223.352 200.936,222.935 201.517,222.656L255.927,210.292C256.304,210.097 256.726,210 257.191,210C257.976,210 258.63,210.264 259.154,210.793C259.59,211.182 259.859,211.662 259.96,212.233C260.062,212.803 259.968,213.352 259.677,213.881Z" fill="#FFFFFF"/>
+<defs>
+<filter id="filter1_2290" x="170" y="170" width="65" height="65" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="0" operator="dilate" in="SourceAlpha" result="0dropshadow"/>
+<feOffset dx="0" dy="2"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="0dropshadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="0dropshadow" result="shape"/>
+</filter>
+</defs>
+</svg>
